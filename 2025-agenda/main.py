@@ -35,7 +35,6 @@ if __name__ == "__main__":
     print(contactos[1])
     print(contactos[0])
 
-
     print("-" * 24)
     time.sleep(2)
     listar
